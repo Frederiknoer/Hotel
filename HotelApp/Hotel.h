@@ -3,6 +3,15 @@
 
 
 class Hotel {
+public:
+    Hotel();
+
+
+
+
+
+private:
+
 
 };
 

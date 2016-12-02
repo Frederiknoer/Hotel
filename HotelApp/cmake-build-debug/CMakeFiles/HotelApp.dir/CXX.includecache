@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Dato.cpp
+Dato.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Dato.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Dato.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Hotel.cpp
+Hotel.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Hotel.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Hotel.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Kunde.cpp
+Kunde.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Kunde.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Kunde.h
+iostream
+-
+Person.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Person.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Person.cpp
+Person.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Person.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Person.h
+iostream
+-
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Reservation.cpp
+Reservation.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Reservation.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Reservation.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Ydelser.cpp
+Ydelser.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Ydelser.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Ydelser.h
+iostream
+-
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/main.cpp
+iostream
+-
+Person.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Person.h
+Kunde.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Kunde.h
+Ydelser.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Ydelser.h
+
