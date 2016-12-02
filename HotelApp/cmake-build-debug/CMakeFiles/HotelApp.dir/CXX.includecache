@@ -17,6 +17,12 @@ Hotel.h
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Hotel.h
 
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Hotel.h
+iostream
+-
+vector
+-
+Reservation.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Reservation.h
 
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Kunde.cpp
 Kunde.h
@@ -39,8 +45,30 @@ iostream
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Reservation.cpp
 Reservation.h
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Reservation.h
+Hotel.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Hotel.h
 
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Reservation.h
+iostream
+-
+vector
+-
+Vaerelse.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Vaerelse.h
+Ydelser.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Ydelser.h
+Dato.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Dato.h
+Kunde.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Kunde.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Vaerelse.cpp
+Vaerelse.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Vaerelse.h
+
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Vaerelse.h
+iostream
+-
 
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Ydelser.cpp
 Ydelser.h
@@ -59,4 +87,10 @@ Kunde.h
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Kunde.h
 Ydelser.h
 /Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Ydelser.h
+Hotel.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Hotel.h
+Reservation.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Reservation.h
+Vaerelse.h
+/Users/alexdupond/Google Drev/Robotteknologi/GitHub/Hotel/HotelApp/Vaerelse.h
 

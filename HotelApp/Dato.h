@@ -12,6 +12,16 @@ public:
     int getMaaned();
     int getAar();
 
+    bool skudAar();
+    bool validate();
+    int dagIAaret();
+    int restDageIAaret();
+    void setDatoPlusEn();
+    void setDatoMinusEn();
+    int forskelIDage(int enD);
+
+    ~Dato();
+
 private:
     int dato;
 

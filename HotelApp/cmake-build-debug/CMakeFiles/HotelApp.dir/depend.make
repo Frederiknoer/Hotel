@@ -4,8 +4,14 @@
 CMakeFiles/HotelApp.dir/Dato.cpp.o: ../Dato.cpp
 CMakeFiles/HotelApp.dir/Dato.cpp.o: ../Dato.h
 
+CMakeFiles/HotelApp.dir/Hotel.cpp.o: ../Dato.h
 CMakeFiles/HotelApp.dir/Hotel.cpp.o: ../Hotel.cpp
 CMakeFiles/HotelApp.dir/Hotel.cpp.o: ../Hotel.h
+CMakeFiles/HotelApp.dir/Hotel.cpp.o: ../Kunde.h
+CMakeFiles/HotelApp.dir/Hotel.cpp.o: ../Person.h
+CMakeFiles/HotelApp.dir/Hotel.cpp.o: ../Reservation.h
+CMakeFiles/HotelApp.dir/Hotel.cpp.o: ../Vaerelse.h
+CMakeFiles/HotelApp.dir/Hotel.cpp.o: ../Ydelser.h
 
 CMakeFiles/HotelApp.dir/Kunde.cpp.o: ../Kunde.cpp
 CMakeFiles/HotelApp.dir/Kunde.cpp.o: ../Kunde.h
@@ -14,14 +20,27 @@ CMakeFiles/HotelApp.dir/Kunde.cpp.o: ../Person.h
 CMakeFiles/HotelApp.dir/Person.cpp.o: ../Person.cpp
 CMakeFiles/HotelApp.dir/Person.cpp.o: ../Person.h
 
+CMakeFiles/HotelApp.dir/Reservation.cpp.o: ../Dato.h
+CMakeFiles/HotelApp.dir/Reservation.cpp.o: ../Hotel.h
+CMakeFiles/HotelApp.dir/Reservation.cpp.o: ../Kunde.h
+CMakeFiles/HotelApp.dir/Reservation.cpp.o: ../Person.h
 CMakeFiles/HotelApp.dir/Reservation.cpp.o: ../Reservation.cpp
 CMakeFiles/HotelApp.dir/Reservation.cpp.o: ../Reservation.h
+CMakeFiles/HotelApp.dir/Reservation.cpp.o: ../Vaerelse.h
+CMakeFiles/HotelApp.dir/Reservation.cpp.o: ../Ydelser.h
+
+CMakeFiles/HotelApp.dir/Vaerelse.cpp.o: ../Vaerelse.cpp
+CMakeFiles/HotelApp.dir/Vaerelse.cpp.o: ../Vaerelse.h
 
 CMakeFiles/HotelApp.dir/Ydelser.cpp.o: ../Ydelser.cpp
 CMakeFiles/HotelApp.dir/Ydelser.cpp.o: ../Ydelser.h
 
+CMakeFiles/HotelApp.dir/main.cpp.o: ../Dato.h
+CMakeFiles/HotelApp.dir/main.cpp.o: ../Hotel.h
 CMakeFiles/HotelApp.dir/main.cpp.o: ../Kunde.h
 CMakeFiles/HotelApp.dir/main.cpp.o: ../Person.h
+CMakeFiles/HotelApp.dir/main.cpp.o: ../Reservation.h
+CMakeFiles/HotelApp.dir/main.cpp.o: ../Vaerelse.h
 CMakeFiles/HotelApp.dir/main.cpp.o: ../Ydelser.h
 CMakeFiles/HotelApp.dir/main.cpp.o: ../main.cpp
 

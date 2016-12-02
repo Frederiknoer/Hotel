@@ -19,7 +19,7 @@ public:
 
 private:
     int betalingsInfo;
-    int kundeID;
+    int kundeNummer;
 
 };
 

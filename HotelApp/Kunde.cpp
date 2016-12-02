@@ -8,7 +8,8 @@ Kunde::Kunde(string etNavn, int enFoedselsdag, int betalingsoplysninger, int etK
     navn = etNavn;
     foedselsdag = enFoedselsdag;
     betalingsInfo = betalingsoplysninger;
-    kundeID = etKundeNummer;
+    kundeNummer = etKundeNummer;
+
 }
 
 int Kunde::getBetalingsInformation() {
@@ -16,7 +17,7 @@ int Kunde::getBetalingsInformation() {
 }
 
 int Kunde::getKundeNummer() {
-    return kundeID;
+    return kundeNummer;
 }
 
 Kunde::~Kunde() {

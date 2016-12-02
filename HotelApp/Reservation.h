@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
-#include "V"
+#include "Vaerelse.h"
+#include "Ydelser.h"
+#include "Dato.h"
+#include "Kunde.h"
 
 using namespace std;
 
@@ -11,16 +14,24 @@ using namespace std;
 class Reservation {
 public:
     Reservation();
+    Reservation(Dato etCheckInd, Dato etCheckUd, Vaerelse enVarelse, Kunde enKunde);
+    void tilfoejTilKvittering(Ydelser enYdelse);
 
-    void opretReservation();
-    void tilfoejTilKvittering();
+    Dato getCheckIndDato();
+    Dato getCheckUdDato();
+    Vaerelse getVarelse();
+    Kunde getKunde();
+    vector<Ydelser> getKvittering();
 
-    ~Reservation()
+    ~Reservation();
 
 private:
-
     int reservationsNr;
-    vector<int>
+    Dato checkInd;
+    Dato checkUd;
+    Vaerelse vaerelse;
+    Kunde kunde;
+    vector<Ydelser> kvittering;
 
 };
 
